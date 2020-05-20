@@ -1,0 +1,8 @@
+{
+    "db": {
+        "name": "NRS8_TEST",
+        "username": "root",
+        "password": "root",
+        "host": "localhost"
+    }
+}
